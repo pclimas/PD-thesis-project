@@ -1,3 +1,5 @@
+## Project proposal guidelines
+
 ### Introduction to the Problem Domain
     Start by introducing the broader problem area, and describing the challenges and motivations behind it. Explain why this area is important and what specific problem or opportunity you are addressing. Be sure to provide sufficient context to highlight the relevance of the problem.
 
