@@ -1,3 +1,5 @@
+### Articles
+
 [Multimodal Gait Abnormality Recognition Using a Convolutional Neural Network–Bidirectional Long Short-Term Memory (CNN-BiLSTM) Network Based on Multi-Sensor Data Fusion ](https://www.mdpi.com/1424-8220/23/22/9101)
 
 
@@ -13,3 +15,5 @@
 
 
 [Deep Learning for Daily Monitoring of Parkinson’s Disease Outside the Clinic Using Wearable Sensors](https://pmc.ncbi.nlm.nih.gov/articles/PMC9502239/)
+
+[PD-Gait: Contactless and privacy-preserving gait measurement of Parkinson's disease patients using acoustic signals](https://onlinelibrary.wiley.com/doi/10.1002/spe.3289)
