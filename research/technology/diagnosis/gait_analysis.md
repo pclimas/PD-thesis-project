@@ -17,3 +17,7 @@
 [Deep Learning for Daily Monitoring of Parkinson’s Disease Outside the Clinic Using Wearable Sensors](https://pmc.ncbi.nlm.nih.gov/articles/PMC9502239/)
 
 [PD-Gait: Contactless and privacy-preserving gait measurement of Parkinson's disease patients using acoustic signals](https://onlinelibrary.wiley.com/doi/10.1002/spe.3289)
+
+[Position and Orientation Tracking in a Ubiquitous Monitoring System for Parkinson Disease Patients With Freezing of Gait Symptom](https://www.sciencedirect.com/org/science/article/pii/S2291522213000235)
+
+[The PARK Framework for Automated Analysis of Parkinson’s Disease Characteristics](https://hoques.com/Publications/2019/2019-PARK_Framework_UbiComp-Langevin-et-al.pdf)
